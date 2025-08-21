@@ -1,0 +1,12 @@
+requests
+streamlit
+fastapi
+pydantic
+pydantic-settings
+uvicorn
+llama-index
+llama-index-llms-ollama
+llama-index-llms-groq
+llama-index-llms-openai
+python-dotenv
+tinydb
